@@ -1,1 +1,1 @@
-FROM quay.io/aptible/alpine:latest
+FROM quay.io/jitesoft/nginx:latest
