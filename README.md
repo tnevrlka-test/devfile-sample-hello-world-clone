@@ -1,1 +1,1 @@
-test PaC branch appstudio-test-component-pac-njte update
+test PaC branch appstudio-test-component-pac-wmjs update
