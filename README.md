@@ -1,1 +1,1 @@
-test PaC branch appstudio-test-component-pac-ngql update
+test PaC branch appstudio-test-component-pac-atqt update
