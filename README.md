@@ -1,1 +1,1 @@
-test PaC branch appstudio-test-component-pac-xumo update
+test PaC branch appstudio-test-component-pac-alfu update
