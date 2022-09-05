@@ -1,1 +1,1 @@
-test PaC branch appstudio-test-component-pac-alfu update
+test PaC branch appstudio-test-component-pac-sdvm update
