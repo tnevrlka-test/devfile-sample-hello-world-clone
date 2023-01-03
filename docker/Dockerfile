@@ -1,1 +1,1 @@
-FROM golang:1.17
+FROM quay.io/jitesoft/nginx:latest
