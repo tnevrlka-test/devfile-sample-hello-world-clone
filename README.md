@@ -1,1 +1,1 @@
-test PaC branch appstudio-test-component-pac-lcul update
+# devfile-sample-hello-world
